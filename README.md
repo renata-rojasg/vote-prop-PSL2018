@@ -33,6 +33,6 @@ If you use the later version of the [UnitDistsForGAMLSS](https://github.com/rena
   author = {Guerra, Renata Rojas},
   title = {UnitDistForGAMLSS},
   year = {2025},
-  note = {Available online: \url{https://github.com/renata-rojasg/UnitDistForGAMLSS} (released on 7 May 2025). Repository: \textit{Figshare}. DOI: \href{https://doi.org/10.6084/m9.figshare.25328575.v2}{10.6084/m9.figshare.25328575.v2},
+  note = {Available online: \url{https://github.com/renata-rojasg/UnitDistForGAMLSS} (released on 7 May 2025). Repository: \textit{Figshare}. DOI: \href{https://doi.org/10.6084/m9.figshare.25328575.v2}{10.6084/m9.figshare.25328575.v2}},
 }
 
