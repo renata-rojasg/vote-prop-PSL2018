@@ -5,7 +5,7 @@ This repository contains the R implementations and data sets used in the paper e
 
 ## 🔧 Additional Code Base
 
-Some of the unit regression models used in this analysis rely on custom distribution implementations. These were developed based on code provided in the [UnitDistsForGAMLSS](https://github.com/renata-rojasg/UnitDistsForGAMLSS) GitHub repository. It contains R functions that extend the `gamlss.family` to include unit distributions not currently available in the official GAMLSS package. The unit gamma and unit Lindley were fitted using this repository.
+Some of the unit regression models used in this analysis rely on custom distribution implementations. These were developed based on code provided in the [UnitDistsForGAMLSS](https://github.com/renata-rojasg/UnitDistForGAMLSS) GitHub repository. It contains R functions that extend the `gamlss.family` to include unit distributions not currently available in the official GAMLSS package. The unit gamma and unit Lindley were fitted using this repository.
 
 **Note:** The paper relies on a previous release of the UnitDistForGAMLSS, which was deployed at [`figshare`](https://figshare.com/articles/software/UnitDistForGAMLSS/25328575/1) and has its own DOI. Later versions of the repository include additional distributions and provide documentation of the implemented functions.
 
@@ -27,12 +27,12 @@ If you use this repository or its contents, please cite:
   year={2024}
 }
 
-If you use the later version of the [UnitDistsForGAMLSS](https://github.com/renata-rojasg/UnitDistsForGAMLSS) repository or its contents, please cite:
+If you use the later version of the [UnitDistsForGAMLSS](https://github.com/renata-rojasg/UnitDistForGAMLSS) repository or its contents, please cite:
 
 @misc{Guerra2025,
   author = {Guerra, Renata Rojas},
   title = {UnitDistForGAMLSS},
   year = {2025},
-  note = {Available online: \url{https://github.com/renata-rojasg/UnitDistForGAMLSS} (released on 7 May 2025). Repository: \textit{Figshare}. DOI: \href{https://doi.org/10.6084/m9.figshare.25328575.v2}{10.6084/m9.figshare.25328575.v2}},
+  note = {Available online: \url{https://github.com/renata-rojasg/UnitDistForGAMLSS} (released on 7 May 2025). Repository: \textit{Figshare}. DOI: \href{https://doi.org/10.6084/m9.figshare.25328575.v2}{10.6084/m9.figshare.25328575.v2},
 }
 
